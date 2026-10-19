@@ -37,17 +37,6 @@ projects using Java, Spring Boot and PostgreSQL.
 - JUnit 5
 - Mockito
 
-## 🚀 My Projects
-
-### Task Management API
-REST API for managing tasks and users.
-
-**Stack:** Java, Spring Boot, PostgreSQL
-
-### Library Management System
-Backend application for managing books
-and library operations.
-
 **Stack:** Java, Spring Boot, Spring Data JPA
 
 ## 📚 Currently Learning
