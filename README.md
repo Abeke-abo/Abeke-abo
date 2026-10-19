@@ -1,76 +1,64 @@
+
 # Hi there! I'm Abzal 👋
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm an aspiring **Java Backend Developer** passionate about building reliable, scalable, and maintainable backend applications.
+I'm an aspiring Java Backend Developer.
 
-I'm currently improving my programming skills, exploring modern backend technologies, and gaining practical experience by building real-world projects.
+I'm learning backend development and building
+projects using Java, Spring Boot and PostgreSQL.
 
-- ☕ Focused on **Java Backend Development**
-- 🌱 Currently learning **Java, Spring Boot, PostgreSQL, and REST APIs**
-- 🧠 Practicing **Algorithms, Data Structures, and Problem Solving**
-- 🛠️ Building projects to strengthen my backend development skills
-- 📚 Continuously improving my knowledge of **Clean Code, OOP, and Software Design**
-- 🎯 My goal is to become a professional **Java Backend Developer**
-- 📍 Based in **Kazakhstan**
+- 🌱 Currently learning Java Backend Development
+- 💻 Interested in REST APIs and backend architecture
+- 🎯 Goal: Become a professional Java Backend Developer
+- 📍 Based in Kazakhstan
 
----
+## 🛠 Tech Stack
 
-### 🛠️ Tech Stack
-
-**💻 Programming Language**
+### Backend
 - Java
-
-**⚙️ Backend Development**
-- Java Core
-- Object-Oriented Programming (OOP)
-- Collections Framework
-- Stream API
-- Spring Framework
 - Spring Boot
 - Spring Data JPA
 - Spring Security
 - Hibernate
-- RESTful APIs
 
-**🗄️ Databases**
+### Databases
 - PostgreSQL
 - SQL
-- JDBC
 
-**🧪 Testing**
-- JUnit 5
-- Mockito
-
-**🔧 Tools & Technologies**
+### Tools
 - Git & GitHub
 - Maven
 - Docker
-- Postman
 - IntelliJ IDEA
+- Postman
 
-**📚 Computer Science**
-- Data Structures
-- Algorithms
-- SOLID Principles
-- Design Patterns
-- Clean Code
+### Testing
+- JUnit 5
+- Mockito
 
----
+## 🚀 My Projects
 
-### 🚀 What I'm Currently Working On
+### Task Management API
+REST API for managing tasks and users.
 
-- 📌 Strengthening my Java Core knowledge
-- 📌 Learning Spring Boot and building RESTful APIs
-- 📌 Practicing SQL and database design
-- 📌 Improving problem-solving skills
-- 📌 Writing clean, readable, and maintainable code
-- 📌 Developing backend projects for my portfolio
+**Stack:** Java, Spring Boot, PostgreSQL
 
----
+### Library Management System
+Backend application for managing books
+and library operations.
 
-### 🤝 Let's Connect
+**Stack:** Java, Spring Boot, Spring Data JPA
 
-I'm always open to learning, collaborating on interesting projects, and connecting with other developers.
+## 📚 Currently Learning
 
-**Thanks for visiting my GitHub profile! 🚀**
+- Java Core
+- Algorithms & Data Structures
+- SQL and PostgreSQL
+- Spring Framework
+- Backend Testing
+
+## 📫 Contact
+
+- GitHub: https://github.com/Abeke-abo
+- LinkedIn: www.linkedin.com/in/abzal-kundyzbaev-530b05320
